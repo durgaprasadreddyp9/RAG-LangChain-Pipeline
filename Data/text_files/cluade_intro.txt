@@ -1,0 +1,13 @@
+Claude AI Overview
+
+Claude is an advanced artificial intelligence assistant developed by Anthropic. It is designed to be helpful, harmless, and honest, focusing on safe and reliable interactions with users.
+
+Claude is built using large language models (LLMs) and is capable of understanding and generating human-like text. It can assist with a wide range of tasks including answering questions, summarizing documents, writing content, coding, and providing explanations.
+
+One of the key features of Claude is its strong emphasis on AI safety. Anthropic uses a technique called Constitutional AI, where the model is guided by a set of principles to ensure ethical and responsible behavior.
+
+Claude can process large amounts of text, making it useful for analyzing documents, extracting insights, and supporting applications like Retrieval-Augmented Generation (RAG). In RAG systems, Claude can retrieve relevant information from external sources and generate accurate responses based on that context.
+
+Claude is commonly used in applications such as customer support, research assistance, data analysis, and conversational AI systems. It is also integrated into various platforms to help developers build intelligent applications.
+
+Overall, Claude represents a step forward in building AI systems that are not only powerful but also aligned with human values.
