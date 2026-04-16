@@ -8,4 +8,4 @@ __pycache__/
 .ipynb_checkpoints/
 chroma_db/
 faiss_index/
-data/
+
